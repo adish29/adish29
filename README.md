@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 Pursuing Master's in Computer Science at Rochester Institute of Technology.
+- 🏫 I'm pursuing Master's in Computer Science at Rochester Institute of Technology.
 - 🔭 I’m currently working on improving my software development skills. 
 - 👯 I’m looking to collaborate on good research project in machine learning. 
 - 💬 Ask me about Algorithms and Cricket.
